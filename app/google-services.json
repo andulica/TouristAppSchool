@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465658936868",
+    "project_id": "touristappschool",
+    "storage_bucket": "touristappschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465658936868:android:f992fc664705af949f22b1",
+        "android_client_info": {
+          "package_name": "andreibalan.com.touristappschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465658936868-2iuo3mni62sonng041aaloh59o00u3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Pptz4lZ1ej7ow1z8XTWeWHjxBJqzgfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465658936868-2iuo3mni62sonng041aaloh59o00u3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
